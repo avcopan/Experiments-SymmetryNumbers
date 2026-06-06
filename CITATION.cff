@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: Experiments SymmetryNumbers
+type: software
+authors:
+  - given-names: Maxim
+    family-names: Papusha
+    orcid: 'https://orcid.org/0009-0000-8580-4777'
+  - given-names: Andreas
+    family-names: Copan
+    orcid: 'https://orcid.org/0000-0002-8682-0813'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+repository-code: >-
+  https://github.com/maxim-papusha/Experiments-SymmetryNumbers
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Symmetry Numbers: A Flexible Approach for Molecules and Transition States"
+  authors:
+    - given-names: Maxim
+      family-names: Papusha
+      orcid: 'https://orcid.org/0009-0000-8580-4777'
+    - given-names: Andreas V.
+      family-names: Copan
+      orcid: 'https://orcid.org/0000-0002-8682-0813'
+    - given-names: Brandon
+      family-names: Rotavera
+      orcid: 'https://orcid.org/0000-0003-0533-7131'
+    - given-names: Kai
+      family-names: Leonhard
+      orcid: 'https://orcid.org/0000-0001-6231-6957'
